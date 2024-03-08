@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CsvFileAttributes">
+    <option name="attributeMap">
+      <map>
+        <entry key="\Stoch-predict-with-Tranformer-LSTM-main\stocks\shangzheng.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Hadoop\Hadoop_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Hadoop\Hadoop_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\SwissLog-main\log_parser\logs\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\SwissLog-main\log_parser\logs\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\SwissLog-main\log_parser\offline_logparser_orgin\LogParserResult\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\SwissLog-main\log_parser\offline_logparser_orgin\LogParserResult\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\SwissLog-main\log_parser\offline_logparser_orgin\benchmark_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\logparser-master\logs\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\GYY-Dlog-master\logparser-master\logs\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\all_spark.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\logs\Spark\all_spark.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\offline_logparser\LogParserResult\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\offline_logparser\LogParserResult\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\offline_logparser_orgin\LogParserResult\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\offline_logparser_orgin\LogParserResult\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\offline_logparser_orgin\benchmark_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\online_logparser\LogParserResult\Spark\all_spark.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\online_logparser\LogParserResult\Spark\all_spark.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\SwissLog-main\log_parser\online_logparser\benchmark_result.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\BGL\BGL_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\BGL\BGL_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Hadoop\Hadoop_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Hadoop\Hadoop_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Linux\Linux_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Linux\Linux_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Mac\Mac_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Mac\Mac_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\OpenStack\OpenStack_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Proxifier\Proxifier_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Spark\Spark_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Spark\Spark_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Thunderbird\Thunderbird_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Thunderbird\Thunderbird_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Windows\Windows_2k.log_structured.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\logparser-master\logs\Windows\Windows_2k.log_templates.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
